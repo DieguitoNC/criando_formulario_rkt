@@ -2,6 +2,9 @@
 Deixei todos os arquivos que utilizei tanto para estudo quanto para o projeto final.
 Os arquivos de estudo / conhecimento inicial deixei na pastinha "docs"
 
+# Imagem do projeto finalizado
+![Imagem do projeto](<Screenshot 2024-02-29 225756.png>)
+
 # Entendendo campos HTML 
 # Campos formularios
 ```
